@@ -1,3 +1,5 @@
 # week3
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1e37a1a45fd828a9cb10)
+Prinn
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/48e83b577de898599c75)
